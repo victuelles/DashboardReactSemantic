@@ -1,0 +1,13 @@
+@import "../../styles/_common.scss";
+
+.fixed-footer {
+    margin: -1rem 0 50px 0 !important;
+    padding: 1.5rem 1rem !important;
+    border-radius: 4px;
+    background-color: $lightGreen;
+    color: #fff;
+}
+
+.one.column.row {
+    text-align: center !important;
+}
